@@ -2,4 +2,18 @@
   margin: 0;
   padding: 0;
   color: yellow;
+  color: #123456;
+  color: #ece;
+  color: #bebe;
+  color: #000;
+}
+.images {
+  width: 400px;
+
+  border-color: #ece;
+  border-width: 6px;
+  border-style: solid;
+
+  /* shorthand */
+  border: 2px groove gray;
 }
